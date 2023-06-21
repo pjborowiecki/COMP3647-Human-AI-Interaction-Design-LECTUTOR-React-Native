@@ -24,7 +24,8 @@ Ensure you have the following installed on your local development machine:
 - [Expo CLI](https://docs.expo.dev/get-started/installation/)
 
 **Installation Process:**
-\```
+
+```
 # Clone the repository
 git clone https://github.com/pjborowiecki/haiid-lectutor-react-native
 
@@ -36,6 +37,7 @@ yarn install
 
 # Start the development server
 npx expo start --tunnel
-\```
+```
+
 The Expo development tool will start in your default web browser and a QR code will be displayed in the terminal. You can then use the Expo Go app on your iOS or Android device to scan the QR code and run the application. 
 
