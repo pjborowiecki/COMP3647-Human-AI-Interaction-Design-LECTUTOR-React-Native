@@ -24,7 +24,7 @@ Ensure you have the following installed on your local development machine:
 - [Expo CLI](https://docs.expo.dev/get-started/installation/)
 
 **Installation Process:**
-\```bash
+\```
 # Clone the repository
 git clone https://github.com/pjborowiecki/haiid-lectutor-react-native
 
