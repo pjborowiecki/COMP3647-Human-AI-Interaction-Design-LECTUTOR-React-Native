@@ -1,6 +1,9 @@
 # LecTutor
 
-![Lectutor vod](https://github.com/pjborowiecki/haiid-lectutor-react-native/blob/more-fixes/img/lectutor.gif)
+<p align="center">
+  <img src="https://github.com/pjborowiecki/haiid-lectutor-react-native/blob/more-fixes/img/lectutor.gif" alt="animated" />
+</p>
+
 
 ## Description
 LecTutor is a helpful active learning application that leverages the power of Artificial Intelligence (AI) to improve the effectiveness of students' study time. The app automates the process of question creation based on lecture notes or slides, enabling users to study more efficiently.
